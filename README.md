@@ -56,4 +56,4 @@ Both are modeled here against synthetic data. Real queue data drops straight in.
 
 Built by Jordan Florence. I work on operational strategy and process optimization: finding where work breaks down, structuring the fix, and making it measurable.
 
-LinkedIn and GitHub: **jordancflorence**
+LinkedIn: [jordanflorence](https://www.linkedin.com/in/jordanflorence/)    GitHub: [jordancflorence](https://github.com/jordancflorence) 
